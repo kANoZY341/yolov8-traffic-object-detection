@@ -1,0 +1,9 @@
+train: C:/Users/USER/OneDrive/CUD/Semesters/SP 2025-2026/AI/The Code/Traffic Dataset.yolov8/train/images
+val: C:/Users/USER/OneDrive/CUD/Semesters/SP 2025-2026/AI/The Code/Traffic Dataset.yolov8/valid/images
+nc: 5
+names:
+- Ambulance
+- Bus
+- Car
+- Motorcycle
+- Truck
